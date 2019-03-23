@@ -1,2 +1,11 @@
-
-{"license":"AOS02-AATH2-OKO82-9G5FAN", "expiration":"2019/03/28 00:00:00"}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
