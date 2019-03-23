@@ -1,12 +1,17 @@
 {
-  "posts": [
+  "bots": [
     {
-      "id": 1,
-      "lic": "AOS02-AATH2-OKO82-9G5FAN",
+      "id": "1",
+      "name:" "someone",
+      "lic:" "AOS02-AATH2-OKO82-9G5FAN",
+      "exp": "2019/03/28 00:00:00"
+    },
+    
+    {
+      "id": "2",
+      "name:" "someone",
+      "lic:" "P9SSJ-O09SH-M5FDS-36LRE7",
       "exp": "2019/03/28 00:00:00"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
